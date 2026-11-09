@@ -1,0 +1,1 @@
+// tmdb.js : TMDB now_playing 응답 (Step3. 에서 함)
